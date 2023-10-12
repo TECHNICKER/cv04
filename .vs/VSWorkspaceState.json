@@ -1,4 +1,10 @@
 {
+  "ExpandedNodes": [
+    "",
+    "\\cv04"
+  ],
+  "SelectedNode": "\\cv04\\cv04.cpp",
+  "PreviewInSolutionExplorer": false,
   "OutputFoldersPerTargetSystem": {
     "Local Machine": [
       "out\\build\\x64-debug",
