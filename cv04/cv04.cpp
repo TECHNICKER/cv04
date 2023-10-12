@@ -29,7 +29,7 @@ double factorial(double operand)
 {
 	double vysledek = operand;
 
-	for (int i = 1; i <= operand; i++)
+	for (int i = 1; i < operand; i++)
 	{
 		vysledek = vysledek * i;
 	}
